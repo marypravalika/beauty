@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-beauty-dev-174127-authRole",
+      "UnauthRoleArn": "arn:aws:iam::518135043588:role/amplify-beauty-dev-174127-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::518135043588:role/amplify-beauty-dev-174127-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-beauty-dev-174127-deployment",
+      "UnauthRoleName": "amplify-beauty-dev-174127-unauthRole",
+      "StackName": "amplify-beauty-dev-174127",
+      "StackId": "arn:aws:cloudformation:us-east-1:518135043588:stack/amplify-beauty-dev-174127/7b1f8e50-b1d8-11eb-9c55-0e5602f42feb",
+      "AmplifyAppId": "d1c5qca32l21hr"
+    },
+    "categories": {
+      "auth": {
+        "beauty5ee87db2": {}
+      }
+    }
+  }
+}
